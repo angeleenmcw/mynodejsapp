@@ -1,0 +1,22 @@
+{
+  "name": "mynodejsapp",
+  "version": "1.0.0",
+  "description": "nodejs app",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeleenmcw/mynodejsapp.git"
+  },
+  "author": "Angeleen Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeleenmcw/mynodejsapp/issues"
+  },
+  "homepage": "https://github.com/angeleenmcw/mynodejsapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
